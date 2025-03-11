@@ -5,13 +5,15 @@ body {
   background-attachment: fixed;
 }
 #box {
-  background-color: #7E7E7E;
+  background-color: #cfbcc5;
   border-radius: 10px;
   margin: auto;
   position: fixed;
   text-align: center;
   height: 800px;
-  width: 600px;
+  width:500px;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
 }
 #heading {
   font-size: 40px;
