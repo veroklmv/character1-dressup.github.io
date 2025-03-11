@@ -6,8 +6,9 @@ body {
 }
 #box {
   background-color: #7E7E7E;
-  border-radius: 20px;
+  border-radius: 10px;
   margin: auto;
+  position: fixed;
   text-align: center;
   height: 800px;
   width: 600px;
