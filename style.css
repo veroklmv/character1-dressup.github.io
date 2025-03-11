@@ -8,9 +8,9 @@ body {
   background-color: #cfbcc5;
   border-radius: 10px;
   margin: auto;
-  position: fixed;
+  position: absolute;
   text-align: center;
-  height: 800px;
+  height: 850px;
   width:500px;
 }
 #heading {
