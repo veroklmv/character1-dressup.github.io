@@ -13,7 +13,6 @@ body {
   text-align: center;
   height: 800px;
   width:500px;
-  backdrop-filter: blur(5px);
 }
 #heading {
   font-size: 40px;
